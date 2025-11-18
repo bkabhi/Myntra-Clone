@@ -8,7 +8,7 @@
 <br/>
 <h3>Preview-</h3>
 <ul>
-<li><i>Live Link-<a href="https://my-ntra-bkabi.netlify.app" target="_blank">Click here</a></i></li>
+<li><i>Live Link-<a href="https://min-thra.vercel.app" target="_blank">Click here</a></i></li>
 <li><i>Code Base-<a href="https://github.com/shivraj32644/MyntraClone" target="_blank">Click here</a></i></li>
 </ul>
 <br/>
